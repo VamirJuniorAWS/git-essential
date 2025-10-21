@@ -1,0 +1,13 @@
+git init 
+git add
+git status 
+git comit -m arquivo 
+git branch 
+git checkout -b branch 
+git pull 
+git merge 
+git clone 
+git ignore
+git push
+git stash
+git stash apply
